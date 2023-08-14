@@ -1,0 +1,22 @@
+@import "variables";
+
+.navbar{
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    z-index: 1000;
+    width: 100%;
+    
+    &-links{
+        display: flex;
+        align-items: center;
+        
+        li{
+            margin: 0 30px;
+        }
+    }
+}
