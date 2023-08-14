@@ -1,4 +1,4 @@
-# CanTour 
+# AdventureTour 
 
 Responsive Tour Project Was Created Using SCSS.
 
